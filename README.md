@@ -1,5 +1,4 @@
 ### My Projects:
-- [TACHO Streaming 🎥](https://github.com/Gonxolo/tacho-streaming) | Website built for embedding and storing videos and live events so they can later be used on streaming. (Work in Progress)
 - [Terrain Generation ⛰️](https://github.com/Gonxolo/terrain-generation) | Terrain generation using fractal functions on WebGL.
 - [My Portfolio 💡](https://gonzaloalarcon.cl/) | A list of all my projects. (Work in Progress)
 - [KBot 🤖](https://github.com/Gonxolo/KBot) | A Twitter bot that posts K-pop videoclips in regular intervals.
